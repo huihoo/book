@@ -18,6 +18,7 @@ http://book.huihoo.com
 * [七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs)
 * [Backbone.js入门教程](https://github.com/the5fire/backbonejs-learning-note)
 * [ClojureScript Unraveled](https://github.com/funcool/clojurescript-unraveled)
+* [Nginx开发从入门到精通](https://github.com/taobao/nginx-book)
 * [Programming OpenResty](https://github.com/openresty/programming-openresty)
 * [Open Advice](https://github.com/Open-Advice/Open-Advice)
 * [Getting Started with Computer Vision](https://github.com/atduskgreg/opencv-processing-book)
