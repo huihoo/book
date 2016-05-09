@@ -29,6 +29,7 @@ http://book.huihoo.com
 
 ## O'Reilly Open Books Project
 * [Open Books](http://www.oreilly.com/openbook/)
+* [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [O'Reilly's Open Books @ Huihoo](http://book.huihoo.com/oreilly/)
 
 
