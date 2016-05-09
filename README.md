@@ -4,6 +4,7 @@
 http://book.huihoo.com
 
 ## GitHub上的开放图书计划
+* [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 * [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents#chinese)
 * [kindle-open-books](https://github.com/ericzhang-cn/kindle-open-books)
 * [books-collection 给程序员的开源、免费图书集合](https://github.com/waylau/books-collection)
