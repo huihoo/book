@@ -4,6 +4,7 @@
 http://book.huihoo.com
 
 ## GitHub上的开放图书计划
+* [Freely available programming books](https://github.com/vhf/free-programming-books)
 * [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 * [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents#chinese)
 * [kindle-open-books](https://github.com/ericzhang-cn/kindle-open-books)
@@ -13,6 +14,10 @@ http://book.huihoo.com
 * [ECMAScript 6入门](https://github.com/ruanyf/es6tutorial)
 * [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [C语言编程透视](https://github.com/tinyclub/open-c-book)
+* [List of Free C/C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+* [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
+* [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
+* [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 * [深入理解PHP内核(Thinking In PHP Internals)](https://github.com/reeze/tipi)
 * [Clever Algorithms: Nature-Inspired Programming Recipes](https://github.com/jbrownlee/CleverAlgorithms)
 * [GotGitHub: an open source E-book about GitHub in Chinese](https://github.com/gotgit/gotgithub)
