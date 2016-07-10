@@ -12,12 +12,6 @@ http://book.huihoo.com
 * [Build Web Applciation With Golang](https://github.com/astaxie/build-web-application-with-golang)
 * [JavaScript 标准参考教程](https://github.com/ruanyf/jstutorial/)
 * [ECMAScript 6入门](https://github.com/ruanyf/es6tutorial)
-* [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
-* [C语言编程透视](https://github.com/tinyclub/open-c-book)
-* [List of Free C/C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
-* [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
-* [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
-* [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 * [深入理解PHP内核(Thinking In PHP Internals)](https://github.com/reeze/tipi)
 * [Clever Algorithms: Nature-Inspired Programming Recipes](https://github.com/jbrownlee/CleverAlgorithms)
 * [GotGitHub: an open source E-book about GitHub in Chinese](https://github.com/gotgit/gotgithub)
@@ -29,6 +23,14 @@ http://book.huihoo.com
 * [Open Advice](https://github.com/Open-Advice/Open-Advice)
 * [Getting Started with Computer Vision](https://github.com/atduskgreg/opencv-processing-book)
 
+## C/C++
+* [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
+* [C语言编程透视](https://github.com/tinyclub/open-c-book)
+* [List of Free C/C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+* [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
+* [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
+* [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+
 ## 维基图书
 * [Wikibooks](https://www.wikibooks.org/)
 
@@ -36,7 +38,6 @@ http://book.huihoo.com
 * [Open Books](http://www.oreilly.com/openbook/)
 * [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [O'Reilly's Open Books @ Huihoo](http://book.huihoo.com/oreilly/)
-
 
 ## 许可方式 License
 [![GNU FDL](http://wiki.huihoo.com/skins/common/images/gnu-fdl.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0) [![CC](http://wiki.huihoo.com/images/4/4e/CC-BY-SA_3.0-88x31.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0)
