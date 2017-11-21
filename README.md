@@ -9,6 +9,7 @@ http://book.huihoo.com
 * [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents#chinese)
 * [kindle-open-books](https://github.com/ericzhang-cn/kindle-open-books)
 * [books-collection 给程序员的开源、免费图书集合](https://github.com/waylau/books-collection)
+* [数据结构思维中文版](https://github.com/wizardforcel/think-dast-zh)
 * [Build Web Applciation With Golang](https://github.com/astaxie/build-web-application-with-golang)
 * [JavaScript 标准参考教程](https://github.com/ruanyf/jstutorial/)
 * [ECMAScript 6入门](https://github.com/ruanyf/es6tutorial)
