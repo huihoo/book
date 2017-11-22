@@ -3,8 +3,23 @@
 
 http://book.huihoo.com
 
+## 自由的编程图书
+![computing book](http://wiki.huihoo.com/images/c/c3/Free-computing-books.jpg)
+
+* [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* [Introduction to Computing: Explorations in Language, Logic, and Machines](http://computingbook.org/)
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+* [Building Skills in Object-Oriented Design](http://buildingskills.itmaybeahack.com/)
+* [Foundations of Programming: Building Better Software](http://openmymind.net/FoundationsOfProgramming.pdf)
+* [Producing Open Source Software](http://producingoss.com/)
+* [Advanced Linux Programming]()
+
 ## GitHub上的开放图书计划
-* [Freely available programming books](https://github.com/vhf/free-programming-books)
+* [Freely available programming books](https://github.com/vhf/free-programming-books) ![awesome](http://wiki.huihoo.com/images/1/13/Awesome.png)
+* [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md) ![awesome](http://wiki.huihoo.com/images/1/13/Awesome.png)
+* [Go Books](https://github.com/dariubs/GoBooks) ![awesome](http://wiki.huihoo.com/images/1/13/Awesome.png)
+* [R Books](https://github.com/RomanTsegelskyi/rbooks) ![awesome](http://wiki.huihoo.com/images/1/13/Awesome.png)
+* [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) ![awesome](http://wiki.huihoo.com/images/1/13/Awesome.png)
 * [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 * [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents#chinese)
 * [kindle-open-books](https://github.com/ericzhang-cn/kindle-open-books)
