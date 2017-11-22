@@ -3,16 +3,30 @@
 
 http://book.huihoo.com
 
-## 自由的编程图书
+## 自由的计算机图书
 ![computing book](http://wiki.huihoo.com/images/c/c3/Free-computing-books.jpg)
 
+* [自由软件，自由社会](http://book.huihoo.com/free-software-free-society/)
+* [Asterisk The Future of Telephony](http://book.huihoo.com/pdf/asterisk-the-future-of-telephony/)
+* [The Art of Unix Programming](http://book.huihoo.com/the-art-of-unix-programming/)
+* [An Introduction to Statistical Learning with Applications in R](http://book.huihoo.com/introduction-to-statistical-learning/)
+* [Data Structures and Algorithms with Object-Oriented Design Patterns in C++](http://book.huihoo.com/data-structures-and-algorithms-with-object-oriented-design-patterns-in-c++/html/), [Java版本](http://book.huihoo.com/data-structures-and-algorithms-with-object-oriented-design-patterns-in-java/html/), [C#版本](http://book.huihoo.com/data-structures-and-algorithms-with-object-oriented-design-patterns-in-csharp/html/)
+* [Common Lisp the Language, 2nd Edition](http://book.huihoo.com/common-lisp-the-language-2nd-edition/clm.html)
+* [Developing applications with Objective Caml](http://book.huihoo.com/developing-applications-with-objective-caml/)
+* [PC Architecture](http://book.huihoo.com/pc-architecture/start.htm)
+* [Lessons In Electric Circuits](http://book.huihoo.com/lessons-in-electric-circuits/)
+* [Design of VLSI Systems](http://book.huihoo.com/design-of-vlsi-systems/toc.html)
+* [Computer Aids for VLSI Design](http://book.huihoo.com/computer-aids-for-vlsi-design/)
+* [Implementing CIFS](http://book.huihoo.com/implementing-cifs/)
+* [MPI: The Complete Reference](http://book.huihoo.com/mpi-the-complete-reference/)
+* [PVM: Parallel Virtual Machine](http://book.huihoo.com/parallel-virtual-machine-version-3/)
+* [Designing and Building Parallel Programs](http://book.huihoo.com/designing-and-building-parallel-programs/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Introduction to Computing: Explorations in Language, Logic, and Machines](http://computingbook.org/)
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 * [Building Skills in Object-Oriented Design](http://buildingskills.itmaybeahack.com/)
 * [Foundations of Programming: Building Better Software](http://openmymind.net/FoundationsOfProgramming.pdf)
 * [Producing Open Source Software](http://producingoss.com/)
-* [Advanced Linux Programming]()
 
 ## GitHub上的开放图书计划
 * [Freely available programming books](https://github.com/vhf/free-programming-books) ![awesome](http://wiki.huihoo.com/images/1/13/Awesome.png)
