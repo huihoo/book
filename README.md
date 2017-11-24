@@ -77,3 +77,8 @@ http://book.huihoo.com
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
 </p>
+
+## 赞助本项目
+![赞助](http://wiki.huihoo.com/images/d/d7/Weixin-dashang.jpg)
+
+世界需要一杯热咖啡
