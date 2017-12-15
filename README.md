@@ -11,6 +11,7 @@ http://book.huihoo.com
 * [The Art of Unix Programming](http://book.huihoo.com/the-art-of-unix-programming/)
 * [An Introduction to Statistical Learning with Applications in R](http://book.huihoo.com/introduction-to-statistical-learning/)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C++](http://book.huihoo.com/data-structures-and-algorithms-with-object-oriented-design-patterns-in-c++/html/), [Java版本](http://book.huihoo.com/data-structures-and-algorithms-with-object-oriented-design-patterns-in-java/html/), [C#版本](http://book.huihoo.com/data-structures-and-algorithms-with-object-oriented-design-patterns-in-csharp/html/)
+* [Transforming Data with ClojureScript](http://langintro.com/cljsbook/)
 * [Common Lisp the Language, 2nd Edition](http://book.huihoo.com/common-lisp-the-language-2nd-edition/clm.html)
 * [Developing applications with Objective Caml](http://book.huihoo.com/developing-applications-with-objective-caml/)
 * [PC Architecture](http://book.huihoo.com/pc-architecture/start.htm)
