@@ -28,6 +28,7 @@ http://book.huihoo.com
 * [Building Skills in Object-Oriented Design](http://buildingskills.itmaybeahack.com/)
 * [Foundations of Programming: Building Better Software](http://openmymind.net/FoundationsOfProgramming.pdf)
 * [Producing Open Source Software](http://producingoss.com/)
+* [Site Reliability Engineering](https://landing.google.com/sre/book/)
 
 ## GitHub上的开放图书计划
 * [Freely available programming books](https://github.com/vhf/free-programming-books) ![awesome](http://wiki.huihoo.com/images/1/13/Awesome.png)
