@@ -55,13 +55,14 @@ http://book.huihoo.com
 * [Open Advice](https://github.com/Open-Advice/Open-Advice)
 * [Getting Started with Computer Vision](https://github.com/atduskgreg/opencv-processing-book)
 
-## C/C++
+## C/C++/Rust
 * [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [C语言编程透视](https://github.com/tinyclub/open-c-book)
 * [List of Free C/C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+* [Rust 程序设计语言简体中文版](https://github.com/KaiserY/rust-book-chinese) [灰狐图书镜像](http://book.huihoo.com/rust/the-rust-programming-language/)
 
 ## 维基图书
 * [Wikibooks](https://www.wikibooks.org/)
