@@ -81,7 +81,7 @@ http://book.huihoo.com
   </a>
 </p>
 
-## 赞助
-![赞助](http://wiki.huihoo.com/images/d/d7/Weixin-dashang.jpg) 微信扫码
+## 灰狐的朋友们
+微信扫码加入我们
 
-赞助我们，灰狐需要一杯热咖啡。
+![灰狐会员](http://wiki.huihoo.com/images/2/25/Zsxq.jpg)
