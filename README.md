@@ -5,7 +5,6 @@ http://book.huihoo.com
 
 ## 自由的计算机图书
 ![computing book](http://wiki.huihoo.com/images/c/c3/Free-computing-books.jpg)
-
 * [自由软件，自由社会](http://book.huihoo.com/free-software-free-society/)
 * [Asterisk The Future of Telephony](http://book.huihoo.com/pdf/asterisk-the-future-of-telephony/)
 * [The Art of Unix Programming](http://book.huihoo.com/the-art-of-unix-programming/)
@@ -36,6 +35,7 @@ http://book.huihoo.com
 * [Go Books](https://github.com/dariubs/GoBooks) ![awesome](http://wiki.huihoo.com/images/1/13/Awesome.png)
 * [R Books](https://github.com/RomanTsegelskyi/rbooks) ![awesome](http://wiki.huihoo.com/images/1/13/Awesome.png)
 * [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) ![awesome](http://wiki.huihoo.com/images/1/13/Awesome.png)
+* [【编程随想】收藏的电子书清单（多个学科，含下载链接）](https://github.com/programthink/books)
 * [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 * [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents#chinese)
 * [kindle-open-books](https://github.com/ericzhang-cn/kindle-open-books)
